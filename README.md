@@ -6,13 +6,13 @@ Underwater Remote Operated Vehicle
 Objective:
 The idea was to create a more affordable version of a Remote Operated Underwater Vehicle. 
 
-Tech Specs:
-Microprocessor: Beaglebone Black running Ubuntu 13.10
-Main body of  ROV: Wal-Mart cooking pot
-Submarine Plastic Dome: Amazon.com special
-Motors: Brushless generic motors (Found on quad copters)
-Speed controllers: RC car spec motor controllers
-Webcam: Logitech Quick Cam C-110
+Tech Specs:</br>
+Microprocessor: Beaglebone Black running Ubuntu 13.10</br>
+Main body of  ROV: Wal-Mart cooking pot</br>
+Submarine Plastic Dome: Amazon.com special</br>
+Motors: Brushless generic motors (Found on quad copters)</br>
+Speed controllers: RC car spec motor controllers</br>
+Webcam: Logitech Quick Cam C-110</br>
 
 Major Challenges:
 -How to seal the ROV
