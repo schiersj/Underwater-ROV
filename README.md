@@ -31,3 +31,4 @@ Accomplishments:<br/>
 Included Files:<br/>
 key.py - python script used to control the ROV movement<br/>
 camera.py - python script for camera control<br/>
+gui.py - a button interface for control of the ROV<br/>
